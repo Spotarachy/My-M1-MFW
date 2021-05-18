@@ -20,6 +20,15 @@ In keeping wiht the company's objectve to make successful reef-keeping accessibl
 
 ![Mockup](/assets/logoN.png)
 
+## Table of contents
+1. [UX - User Experience](#ux)
+   * [Project Goals](#project-goals)
+   * [User Stories](#user-stories)
+     1. Visitiing the site for the fist time
+     2. Returning Visitor to the site
+     3. Frequent User to the site
+
+
 ---
 ```bash
 UX - User experience
@@ -85,47 +94,34 @@ Design
   * White ( 255,255,255) or FFFFFF
   * Blue/Purple  ( 128,134,237) or 8086ED
   * Gray (219,219,220) or DBDBDC
-![alt Red Sea Reef](asset/images/Logo/rgb.png)
-
-From: Coolors Palette:
-  [MIT](https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc)
-
-
+ ![alt Red Sea Reef](assets/images/rgb.png)
+ From: Coolors Palette:
+      [MIT](https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc)
+  
 
 *Typography*
-  * The main font is going to be use is Roboto Regular 400, this font is going be uesd through the whole website, this font came form Google fonts.
-  * Why Roboto:
+  * The main font that is going to be use is Roboto, Regular 400, this font is going be uesd through the whole website, this font came form Google fonts.
+    * Why Roboto:
       [MIT](https://fonts.google.com/specimen/Roboto#about)
   
-  
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-</style>
 
- * The back up font willbe poppins at 100 italic, jiust in case the main font is not loading propely on the website, this font is also will be Source form Google Fonts.
- * Why Poppins: 
-   [MIT](https://fonts.google.com/specimen/Poppins#about)
+ * The back up font will be poppins, at 100 italic, just in case the main font is not loading propely on the website, this font is also will be Source form Google Fonts.
+    * Why Poppins: 
+      [MIT](https://fonts.google.com/specimen/Poppins#about)
 
 
-<link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap" rel="stylesheet">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
-</style>
+
 
 *Images*
  * Images will be Source for google Form Free to uesd images.
  * Images will also be Source from redseafish, where permission to use these images in this projcet was requested.
  ![alt Red Sea Reef](5.png)
 
-
-*index*
-
+  * index :
+   
 *Icons*
 
+All icons for Social Media were sourced form Font Awesome
 *Source*
 
 
