@@ -1,14 +1,11 @@
 
-
-( link to webpage Here)
-
 ![alt Red Sea Reef](logoN.png)
 
- # Red Sea Reef #
+## ```Brining The Ocean To You,```
 
-#### Bring the Ocean to you.
+( link to webpage Here)
 ---
-```bash
+```
 About 
 ```
 
@@ -21,21 +18,29 @@ In keeping wiht the company's objectve to make successful reef-keeping accessibl
 ![Mockup](/assets/logoN.png)
 
 ## Table of contents
-1. [UX - User Experience](#ux)
+[UX - User Experience](#ux)
    * [Project Goals](#project-goals)
    * [User Stories](#user-stories)
      1. Visitiing the site for the fist time
      2. Returning Visitor to the site
      3. Frequent User to the site
 
+[Design](#design-choices)
+
+ * [Colours](#colours)
+ * [Typography](#typography)
+ * [Images](#images)
+ * [Icons](#icons)
+ * [Layout](#layout)
+ * [Wireframes](#wireframes)
 
 ---
-```bash
+```
 UX - User experience
 ```
 In this website you will find three different ways you can set up a Marine  Aquarium and there care requirements, in  About Us page their are  videos information form customers aquariums in an all in one platform you will also find a link to our contact page if any hiccups arrive this website is billed for the customers to share their inspiration through our gallery page
 
- ### Project Goals 
+ ### ```Project Goals ```
  
  * To Provide a easy to understard  webpage to learn about their aquarium.
  
@@ -50,7 +55,7 @@ In this website you will find three different ways you can set up a Marine  Aqua
  * To provide a clear and easy place for contacting and receiving additional advice about the systems set up.
  
  
-### User Stories
+### ```User Stories```
  1.**Visitiing the site for the fist time :**
 
   * As a First time Visitor,I want the site to have a fast loading time.
@@ -85,10 +90,11 @@ In this website you will find three different ways you can set up a Marine  Aqua
   * As s Frequent User, want to know if their more any event's coming up, where i can sign up, for Newsletter.
 
 
-```bash
-Design  
 ```
-*Colours*
+Designs  
+```
+### ```Colours```
+
  * There are Four main RGB Colour that well be uesd through the website:
   * RER (252, 14, 40) or FCOE28
   * White ( 255,255,255) or FFFFFF
@@ -99,7 +105,7 @@ Design
       [MIT](https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc)
   
 
-*Typography*
+### ```Typography```
   * The main font that is going to be use is Roboto, Regular 400, this font is going be uesd through the whole website, this font came form Google fonts.
     * Why Roboto:
       [MIT](https://fonts.google.com/specimen/Roboto#about)
@@ -112,26 +118,25 @@ Design
 
 
 
-*Images*
- * Images will be Source for google Form Free to uesd images.
- * Images will also be Source from redseafish, where permission to use these images in this projcet was requested.
+### ```Images```
+ * Images will be Source for [Pexels](https://www.pexels.com/search/coral%20reef/) For Free to uesd images form [my account](https://www.pexels.com/@mario-f-wilson-58865816).
+
+ * Images & Video will also be Source from [redseafish](https://www.redseafish.com), where permission to use these images & videos in this projcet was requested.
  ![alt Red Sea Reef](5.png)
 
-  * index :
+<--- * index : -->
    
-*Icons*
+### ```Icons```
 
-All icons for Social Media were sourced form Font Awesome
-*Source*
-
-
+The icons for Social Media were sourced form [Font Awesome](https://fontawesome.com) and [Google Fonts](https://fonts.google.com/icons)
 
 
 ---
-```bash
-Wireframes
-```
-Home Page:
+```   ```
+
+### ```Wireframes```
+
+*Home Page*:
 <img width="1470" alt="Home page  2021-05-11 at 10 12 13 PM" src="https://user-images.githubusercontent.com/79710661/118097431-f92e5780-b3d2-11eb-868c-0769001a22b2.png">
 
 
@@ -143,10 +148,27 @@ Home Page:
 
 <img width="1561" alt="Gallery  2021-05-11 at 10 14 58 PM" src="https://user-images.githubusercontent.com/79710661/118097498-119e7200-b3d3-11eb-915f-171d5d4e050a.png">
 
-Moblie Wireframes:
+### ```Moblie Wireframes:```
+
+![alt Red Sea Reef](assets/Wireframes/mobile/WF.H.png.pdf)
+
+![alt Red Sea Reef](assets/images/WF.A.png)
+
+![alt Red Sea Reef](assets/images/WF.C.png)
+
+![alt Red Sea Reef](assets/images/WF.G.png)
 
 
-Download Here:
+
+
+
+
+
+
+
+
+*Download Here:*
+
 [Home page  2021-05-11 at 10.12.13 PM.pdf](https://github.com/Spotarachy/My-M1-MFW/files/6471154/Home.page.2021-05-11.at.10.12.13.PM.pdf)
 
 
@@ -215,6 +237,7 @@ We invite you to learn more about these solutions and look forward to helping yo
 
 * images
   * https://www.redseafish.com
+  * Photo by Egor Kamelev from [Pexels](https://www.pexels.com/photo/macro-photography-of-white-coral-920163/)
 
 * Page Colour
   * https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc
@@ -222,3 +245,4 @@ We invite you to learn more about these solutions and look forward to helping yo
 
 * Friend's Reef tank
   * https://www.instagram.com/seadreams_reeftanks/ 
+
