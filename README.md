@@ -18,13 +18,15 @@ At Red Sea Reef our vision has been to create a world in which marine and reef a
 
 In keeping wiht the company's objectve to make successful reef-keeping accessible to a wider audience, form novices to experienced hobbyists, Red Sea Reef Developmnet its ground-breaking range of reef aquarium systems.
 
+![Mockup](/assets/logoN.png)
+
 ---
 ```bash
-UX 
+UX - User experience
 ```
 In this website you will find three different ways you can set up a Marine  Aquarium and there care requirements, in  About Us page their are  videos information form customers aquariums in an all in one platform you will also find a link to our contact page if any hiccups arrive this website is billed for the customers to share their inspiration through our gallery page
 
- ## Project Goals ##
+ ### Project Goals 
  
  * To Provide a easy to understard  webpage to learn about their aquarium.
  
@@ -39,51 +41,51 @@ In this website you will find three different ways you can set up a Marine  Aqua
  * To provide a clear and easy place for contacting and receiving additional advice about the systems set up.
  
  
-## User Stories ##
-**Visitiing the site for the fist time :**
+### User Stories
+ 1.**Visitiing the site for the fist time :**
 
-* As a First time Visitor,I want the site to have a fast loading time.
-* As a First time Visitor,I Want to be able to use a website on any device.
-* As a First time Visitor I want to able to learn and easily understand what the website is about.
-* As a First time Visitor I  Want to feel the commitment to the end-users.
-* As a First time Visitor I Want a quick and easy to navigate or the page & not overloaded with information.
-* As a First time Visitor I want to be able to click and visit social media, and others for more content and to keep up to date with future postings and developments.
-* Knowing priceing for each type of set up.
-* Finding out as much as possible about the care requirements.
-* I want to access contact information, such as address, phone numbers and location.
-* Being able to navigate quickly through out  part of the website.
+  * As a First time Visitor,I want the site to have a fast loading time.
+  * As a First time Visitor,I Want to be able to use a website on any device.
+  * As a First time Visitor I want to able to learn and easily understand what the website is about.
+  * As a First time Visitor I  Want to feel the commitment to the end-users.
+  * As a First time Visitor I Want a quick and easy to navigate or the page & not overloaded with information.
+  * As a First time Visitor I want to be able to click and visit social media, and others for more content and to keep up to date with future postings and developments.
+  * Knowing priceing for each type of set up.
+  * Finding out as much as possible about the care requirements.
+  * I want to access contact information, such as address, phone numbers and location.
+  * Being able to navigate quickly through out  part of the website.
 
-**Returning Visitor to the site:**
+ 2.**Returning Visitor to the site:**
 
-* A quick loading website using a combintion of from over focus, the website that load on mobile device just as well as just as well as desktop devices.
+  * A quick loading website using a combintion of from over focus, the website that load on mobile device just as well as just as well as desktop devices.
 
-* A quick and responsive platform that all user can injoy  
+  * A quick and responsive platform that all user can injoy  
 
-* A Design that is easy & clear call's to action,to able to navigate the website Features.
+  * A Design that is easy & clear call's to action,to able to navigate the website Features.
 
-* As a Returning Visitor the website to be both informational-based and social media-based to keep both parties equally and Informed.  
+  * As a Returning Visitor the website to be both informational-based and social media-based to keep both parties equally and Informed.  
 
-* As a Returning Visitor i want the layout will be easy to navigate with Clare buttons In the top menu bar for ease of use.
+  * As a Returning Visitor i want the layout will be easy to navigate with Clare buttons In the top menu bar for ease of use.
 
-**Frequent User to the site:**
+ 3.**Frequent User to the site:**
 
-* As a Frequent User, I wanrt to See a clear part to anything newly added item.
+  * As a Frequent User, I wanrt to See a clear part to anything newly added item.
 
-* As a Frequent User, want to keet update wiht Stories form others to also visito the site true social media, Facebook, Twitter etc...
+  * As a Frequent User, want to keet update wiht Stories form others to also visito the site true social media, Facebook, Twitter etc...
 
-* As s Frequent User, want to know if their more any event's coming up, where i can sign up, for Newsletter.
+  * As s Frequent User, want to know if their more any event's coming up, where i can sign up, for Newsletter.
 
 
 ```bash
 Design  
 ```
-*Colour*
-* There are Four main RGB Colour that well be uesd through the website:
+*Colours*
+ * There are Four main RGB Colour that well be uesd through the website:
   * RER (252, 14, 40) or FCOE28
   * White ( 255,255,255) or FFFFFF
   * Blue/Purple  ( 128,134,237) or 8086ED
   * Gray (219,219,220) or DBDBDC
-![alt Red Sea Reef](rgb.png)
+![alt Red Sea Reef](asset/images/Logo/rgb.png)
 
 From: Coolors Palette:
   [MIT](https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc)
@@ -118,7 +120,16 @@ From: Coolors Palette:
  * Images will be Source for google Form Free to uesd images.
  * Images will also be Source from redseafish, where permission to use these images in this projcet was requested.
  ![alt Red Sea Reef](5.png)
-    
+
+
+*index*
+
+*Icons*
+
+*Source*
+
+
+
 
 ---
 ```bash
