@@ -91,7 +91,6 @@ In this website you will find three different ways you can set up a Marine  Aqua
 
   * As s Frequent User, want to know if their more any event's coming up, where i can sign up, for Newsletter.
 
-
 ```
 Designs  
 ```
@@ -106,6 +105,7 @@ Designs
  From: Coolors Palette:
       [MIT](https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc)
   
+---
 
 ### ```Typography```
   * The main font that is going to be use is Roboto, Regular 400, this font is going be uesd through the whole website, this font came form Google fonts.
@@ -117,24 +117,22 @@ Designs
     * Why Poppins: 
       [MIT](https://fonts.google.com/specimen/Poppins#about)
 
-
-
+---
 
 ### ```Images```
  * Images will be Source for [Pexels](https://www.pexels.com/search/coral%20reef/) For Free to uesd images form [my account](https://www.pexels.com/@mario-f-wilson-58865816).
 
  * Images & Video will also be Source from [redseafish](https://www.redseafish.com), where permission to use these images & videos in this projcet was requested.
- ![alt Red Sea Reef](5.png)
+ ![alt Red Sea Reef](assets/images/5.png)
 
 <--- * index : -->
-   
+---
+
 ### ```Icons```
 
 The icons for Social Media were sourced form [Font Awesome](https://fontawesome.com) and [Google Fonts](https://fonts.google.com/icons)
 
-
 ---
-```   ```
 
 ### ```Wireframes```
 
@@ -165,20 +163,14 @@ The icons for Social Media were sourced form [Font Awesome](https://fontawesome.
 
 [Home page  2021-05-11 at 10.12.13 PM.pdf](https://github.com/Spotarachy/My-M1-MFW/files/6471154/Home.page.2021-05-11.at.10.12.13.PM.pdf)
 
-
-
 [About us 2021-05-11 at 10.13.15 PM.pdf](https://github.com/Spotarachy/My-M1-MFW/files/6471156/About.us.2021-05-11.at.10.13.15.PM.pdf)
 
-
-
 [Cantact 2021-05-11 at 10.14.12 PM 1.pdf](https://github.com/Spotarachy/My-M1-MFW/files/6471160/Cantact.2021-05-11.at.10.14.12.PM.1.pdf)
-
-
-
 
 [Gallery  2021-05-11 at 10.14.58 PM.pdf](https://github.com/Spotarachy/My-M1-MFW/files/6471158/Gallery.2021-05-11.at.10.14.58.PM.pdf)
 
 ---
+
 link images 1
 
 
@@ -188,7 +180,10 @@ https://www.coralandfishstore.nl/zeeaquarium/kaal-aquarium/waterbox-marine-x-90-
 https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-white.jpg
 
 ---
-### ```Features ```
+
+```
+Features
+ ```
  
  * Navigetion buttons well all be responsive
 
@@ -205,8 +200,10 @@ https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-whit
    * was used to create the logo, resizing images and editing photos for the website.
 
 * Wireframes made with Balsamiq [link to Balsamiq!](https://balsamiq.com/)
+
+---
     
-### ```Validator & Testing ```
+### ```Validator ```
 
 * HTML
   * No errors were found when running this webpage true the HTML5 validator website [W3C validator!](https://validator.w3.org/)
@@ -214,11 +211,23 @@ https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-whit
 * CSS3
   * No errors were found when running this webpage true the CSS3 validator website [Jigsaw!](https://jigsaw.w3.org/css-validator/)
 
+### ``` Testing ```
+
 * 404 
   * This page is only accessed if a user types an incorrect web address in the browser navigation bar.
 
   * This page contains the following section: A "humourous message" notifying the user of an error. This will then allows the user to defect that the web address thire trying to locate doens't exist.
      * There is one call-out button in this section, allowing user to return to the home page! 
+
+#### Futher Testing 
+ * Moblie Testing
+     1. index.thml
+     2. desktop
+     3. performance
+
+<add Text !!>
+
+
 * Features to implement 
   * Adding Teram and condition 
   * Adding Privacy Step update 
@@ -226,43 +235,52 @@ https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-whit
   * Adding a two step anthenticator, for payments 
   * Detailed reef safe fish & coral
   * 
-
-### ```
-
-
-
-
 ---
-### H3 Headings
-#### H4 Headings
+### ```Known Bugs```
+* 
+ * 
+ * 
 
 ---
 
-## Lists
+```
+Developmnet
+```
 
-1.A list wiht number
+### ```Github Page```
 
-2.A list wiht number 
+The hold webpage will be accessible on the github server, where the code and readme.md file well be add for information. 
 
-3.A list wiht number
+[link to github ](https://github.com/Spotarachy/My-M1-MFW)
 
-* A list wiht bullet points 
-* A list wiht bullet points
-* A list wiht bullet points
+Following this helpfull guide to the step sourced form the [GitHub.com/Code Institute README Sample](https://github.com/Code-Institute-Solutions/SampleREADME)
 
-[A link to github] (https://github.com)    ->Mario this how it made to link webpage!
 
-![alt text here](icon.png)        ->this how to place an image, like a logo!
+>Log in to GitHub and locate the GitHub Repository,Spotarachy/My-M1-MFW
 
----
+>At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 
-## Tables
+>Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
 
-## Features 
+>Scroll down the Settings page until you locate the "GitHub Pages" Section.
 
-We invite you to learn more about these solutions and look forward to helping you make your home reef aquarium a dream come true.
+>Under "Source", click the dropdown called "None" and select "Master Branch".
+
+>The page will automatically refresh.
+
+>Scroll back down through the page to locate the now published site link in the "GitHub Pages" section
+
+
+### ``` Credit ```
+ * Content
+   * the text 
+
+ * Media
+
  
-## Source
+
+ 
+### ``` Acknowledgements ```
 
 
 * Google Fonts
@@ -275,7 +293,8 @@ We invite you to learn more about these solutions and look forward to helping yo
 * Page Colour
   * https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc
 
-
 * Friend's Reef tank
   * https://www.instagram.com/seadreams_reeftanks/ 
 
+* Sample README.md file
+  * https://github.com/Code-Institute-Solutions/SampleREADME
