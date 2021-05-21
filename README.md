@@ -191,6 +191,7 @@ https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-whit
 ### ```Features ```
  
  * Navigetion buttons well all be responsive
+
  * Will be made wiht interactive elements 
 
  * Languages Used
@@ -199,7 +200,37 @@ https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-whit
    * CSS3 [link to CSS3!](https://en.wikipedia.org/wiki/CSS)
 
    * Bootstrap [link to Bootstrap!](https://getbootstrap.com/)
+
+* Ipad pro editer:
+   * was used to create the logo, resizing images and editing photos for the website.
+
+* Wireframes made with Balsamiq [link to Balsamiq!](https://balsamiq.com/)
     
+### ```Validator & Testing ```
+
+* HTML
+  * No errors were found when running this webpage true the HTML5 validator website [W3C validator!](https://validator.w3.org/)
+
+* CSS3
+  * No errors were found when running this webpage true the CSS3 validator website [Jigsaw!](https://jigsaw.w3.org/css-validator/)
+
+* 404 
+  * This page is only accessed if a user types an incorrect web address in the browser navigation bar.
+
+  * This page contains the following section: A "humourous message" notifying the user of an error. This will then allows the user to defect that the web address thire trying to locate doens't exist.
+     * There is one call-out button in this section, allowing user to return to the home page! 
+* Features to implement 
+  * Adding Teram and condition 
+  * Adding Privacy Step update 
+  * Detailed contact information, Auto log in 
+  * Adding a two step anthenticator, for payments 
+  * Detailed reef safe fish & coral
+  * 
+
+### ```
+
+
+
 
 ---
 ### H3 Headings
