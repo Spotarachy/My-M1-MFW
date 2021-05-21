@@ -1,5 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Spotarachy/My-M1-MFW)
 
-![alt Red Sea Reef](logoN.png)
+
+![alt Red Sea Reef](/assets/images/logoN.png)
 
 ## ```Brining The Ocean To You,```
 
@@ -150,21 +152,13 @@ The icons for Social Media were sourced form [Font Awesome](https://fontawesome.
 
 ### ```Moblie Wireframes:```
 
-![alt Red Sea Reef](assets/Wireframes/mobile/WF.H.png.pdf)
+![alt Red Sea Reef](assets/images/WF.H.png)
 
 ![alt Red Sea Reef](assets/images/WF.A.png)
 
 ![alt Red Sea Reef](assets/images/WF.C.png)
 
 ![alt Red Sea Reef](assets/images/WF.G.png)
-
-
-
-
-
-
-
-
 
 
 *Download Here:*
@@ -194,12 +188,20 @@ https://www.coralandfishstore.nl/zeeaquarium/kaal-aquarium/waterbox-marine-x-90-
 https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-white.jpg
 
 ---
-**Existing Features**
+### ```Features ```
+ 
+ * Navigetion buttons well all be responsive
+ * Will be made wiht interactive elements 
 
- * Navigetion Bar 
+ * Languages Used
+   * HTML5 [link to HTML5!](https://en.wikipedia.org/wiki/HTML5)
+  
+   * CSS3 [link to CSS3!](https://en.wikipedia.org/wiki/CSS)
+
+   * Bootstrap [link to Bootstrap!](https://getbootstrap.com/)
     
 
-
+---
 ### H3 Headings
 #### H4 Headings
 
