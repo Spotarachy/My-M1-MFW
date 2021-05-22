@@ -171,16 +171,6 @@ The icons for Social Media were sourced form [Font Awesome](https://fontawesome.
 
 ---
 
-link images 1
-
-
-
-https://www.coralandfishstore.nl/zeeaquarium/kaal-aquarium/waterbox-marine-x-90-3-white.html?gclid=CjwKCAjwnPOEBhA0EiwA609ReU_kFClSMQ05VgjI8wS8XmHaLyyRDefsLMBQUbfY2u9DSfOuR-AAjxoCz5UQAvD_BwE
-
-https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-white.jpg
-
----
-
 ```
 Features
  ```
@@ -225,7 +215,7 @@ Features
      2. desktop
      3. performance
 
-<add Text !!>
+<add Text>
 
 
 * Features to implement 
@@ -237,7 +227,7 @@ Features
   * 
 ---
 ### ```Known Bugs```
-* 
+*   <Add Text>
  * 
  * 
 
@@ -253,7 +243,7 @@ The hold webpage will be accessible on the github server, where the code and rea
 
 [link to github ](https://github.com/Spotarachy/My-M1-MFW)
 
-Following this helpfull guide to the step sourced form the [GitHub.com/Code Institute README Sample](https://github.com/Code-Institute-Solutions/SampleREADME)
+Following this helpfull guide to the step's: sourced form the [GitHub.com/Code Institute README Sample](https://github.com/Code-Institute-Solutions/SampleREADME)
 
 
 >Log in to GitHub and locate the GitHub Repository,Spotarachy/My-M1-MFW
@@ -277,17 +267,28 @@ Following this helpfull guide to the step sourced form the [GitHub.com/Code Inst
 
  * Media
 
+  * link images 1
+
+     https://www.coralandfishstore.nl/zeeaquarium/kaal-aquarium/waterbox-marine-x-90-3-white.html?gclid=CjwKCAjwnPOEBhA0EiwA609ReU_kFClSMQ05VgjI8wS8XmHaLyyRDefsLMBQUbfY2u9DSfOuR-AAjxoCz5UQAvD_BwE
+
+     https://www.coralandfishstore.nl/15397-large_default/waterbox-marine-x-90-3-white.jpg
+
  
 
  
 ### ``` Acknowledgements ```
 
 
+
+ John Traas, from the slack comuitfor his supprt.
+
+ 
 * Google Fonts
   * https://fonts.google.com/?query=pop
 
 * images
   * https://www.redseafish.com
+  
   * Photo by Egor Kamelev from [Pexels](https://www.pexels.com/photo/macro-photography-of-white-coral-920163/)
 
 * Page Colour
