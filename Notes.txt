@@ -31,3 +31,16 @@ https://gulfspecimen.org/education/
 
 video
 https://youtu.be/9zTvYe_uXdU
+
+  <nav class="navbar  navbar-expand-lg navbar-light text-uppercase">
+       <div class="container" id="scrollspy">
+           <!---->
+        <a class="navbar-brand" href="#"> 
+            <!-- see if hero works -->
+          <h1 class="navbar-brand-text">Red Sea Reef</h1>
+          <p id="tagline">Brining The Ocean To You.</p>
+        </a> 
+          
+      <button class="navbar-toggler" type="button" data-toggle="collapse" date-tatgrt="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+     </button> 
