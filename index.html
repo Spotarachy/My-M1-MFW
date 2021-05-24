@@ -16,43 +16,45 @@
      
 </head>
 <!-- navbar bootsrap--> 
-<body>
+<body data-spy="scroll" data-offset="200" data-target="#scrollspy"></body>
     <header>
-      <nav class="navbar  navbar-expand-md navbar-light">
-       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">
-          <div id="logo">
-          <h1 id="title">Red Sea Reef</h1>
+      <nav class="navbar  navbar-expand-lg navbar-light text-uppercase">
+       <div class="container" id="scrollspy">
+           <!---->
+        <a class="navbar-brand" href="#"> 
+            <!-- see if hero works -->
+          <h1 class="navbar-brand-text">Red Sea Reef</h1>
           <p id="tagline">Brining The Ocean To You.</p>
-          <h1>Select your Reef Aquarium Objective</h1>
-          <div class="h1"><center></center></div>
-         </div>
-       </a>
-      </div>
-
-      <button class="navbar-toggler" type="button" data-toggle="collapse" date-tatgrt="#navbardropdown" aria-controls="navbardropdown" aria-expanded="true" aria-label="Toggle navigation">
+        </a> 
+          
+      <button class="navbar-toggler" type="button" data-toggle="collapse" date-tatgrt="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
      </button>  
 
-      <div class="navbar-collapse collapse show" id="navbardropdown" style>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
-                  <a class ="nav-link active" href="index.html">Home</a>
+              <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+                  <a class="nav-link" href="#index.html">Home</a>
               </li>
               <li class="nav-item">
-                  <a class ="nav-link active" href="index.html">AboutUs</a>
+                  <a class ="nav-link active" href="AboutUs.html">AboutUs</a>
               </li>
               <li class="nav-item">
-                  <a class ="nav-link active" href="index.html">Contact</a>
+                  <a class ="nav-link active" href="Contact.html">Contact</a>
               </li>
               <li class="nav-item">
-                  <a class ="nav-link active" href="index.html">Gallery</a>
+                  <a class ="nav-link active" href="Gallery.html">Gallery</a>
               </li>
           </ul>
-      </div>
+         </div>
+       </div>  
+     </div>
     </nav>
 </header>
 <!-- images-->
+
+
+ <h2>Select your Reef Aquarium Objective</h2>
 <section id="Home-page">
       <div class="Column">
   <img src="assets/images/logoN.png" class="rounded" alt="REEF"style="width:50%">
@@ -78,18 +80,18 @@
     
 </section>
 <!-- Social -->
-  <footer>
-      <div class="row justify-cintent-center">
-          <div class="col-12"
+    <footer>
+       <div class="row justify-cintent-center">
+           <div class="col-12"
            <ul class="social-networks">
-           </ul>
-        <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i>  </a></li>
-            <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i> </a></li>
-            <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube-square"></i> </a></li>
-            <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i> </a></li>
-      </il>
-    </ul>
-    </div>
+           
+            <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a>
+            <a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube-square"></i></a>
+            <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+      
+          </ul>
+       </div>
     </footer>
 </body>
 </html>
