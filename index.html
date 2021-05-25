@@ -27,8 +27,8 @@
             <button class="navbar-toggler hvr-grow" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigetion">
         <span class="navbar-toggler-icon"></span>
     </button>
- <div class="navbar-collapse collapse" id="navbarNav" style>   
-          <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
+ <div class="collapse navbar-collapse" id="navbarNav">   
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
                   <a class="nav-link nav-active" aria-current="page" href="indax.html">Home</a>
                     <div class="underline-circle-outer">
@@ -47,15 +47,11 @@
                   <a class ="nav-link" href="Gallery.html">Gallery</a>
               </li>
           </ul>
-          <button class="btn btn-danger" d-lg-block hvr-grow" type="button" data-bs-toggle="modal" data-bs-target="#joinModal" >
-            Join!</button>
-             
+<!--Modal made wiht Bootsrap-->          
+          <button class="btn btn-danger" d-lg-block hvr-grow" type="button" data-bs-toggle="modal" data-bs-target="#joinModal">Join</button>
          </div>
        </div>
-    </button>
-  </div>
-</nav>  
-</header>
+    </nav>  
 
 <div class="jumbotron jumbotron-fluid px-3 mb-0 text-center">
     <div class="py-3 px-3 bg--color--black"> 
@@ -63,30 +59,60 @@
     </div>
   </div> 
 </div>
+<!---->
+<div class="modal fade" id="joinModal" tabindex="-1" aria-labelledby="joinModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="btn-close hvr-grow" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+              <div class="container">
+                  <div class="row">
+                      <div class="col">
+                        <img src="assets/images/Tank.jpg" style="widows:400px;" height="400px;">
+                        <p class="mb-2">REEF</p>
+                        <form method="POST"></form>
+                        
+                        <div class="col order-5">
+                        <img src="assets/images/Fish.png"  style="widows:400px;" height="400px;">
+                        <p>FISH </p>
+                       </div>
+
+                       <div class="col order-1">
+                        <img src="assets/images/coral.jpg" style="widows:400px;" height="400px;">
+                        <p>CORALS</p> 
+                   </div>
+                 </div>
+                </div>
+             </div>
+            </div>
+        </div>
+    </div>
+</div>      
+<div class="container">
+  <div class="row">
+    <div class="col order-1">
+      <img src="assets/images/Tank.jpg" alt="images of a coral reef Aquarium" style="width: 100%; height: 100%;">
+      <p class="md-2">REEF</p>
+    </div>
+    <div class="col order-2">
+      Second in DOM, with a larger order
+      <img src="assets/images/Fish.png"  style="width: 100%-auto;" height="100%-auto;">
+        <p>FISH </p>
+    </div>
+    <div class="col order-3">
+      Third in DOM, with an order of 1
+    </div>
+  </div>
+</div>
+
 <!-- images-->
 
+</header> 
 <section>
-   
-<div class="container">
-   <div class="row">
-       <div class="col">
-         <img src="assets/images/Tank.png" style="widows:400px;" height="400px;">
-        <div class="col">REEF</div>
-    </div>
-    <div class="container"></div>
-<div class="col">
-    <img src="assets/images/Fish.png"  style="widows:400px;" height="400px;">
-      <div class="col">FISH</div>
-         
-       <div class="container"></div>
-            <div class="col">
-             <img src="assets/images/coral.png" style="widows:400px;" height="400px;">
-          <div class="col">CORALS</div> 
-       </div>
-     </div>
-   </div>
-</div>
-</di   
+
+
 </section>
 <!-- Social -->
     <footer>
