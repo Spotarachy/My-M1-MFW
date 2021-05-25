@@ -44,3 +44,12 @@ https://youtu.be/9zTvYe_uXdU
       <button class="navbar-toggler" type="button" data-toggle="collapse" date-tatgrt="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
      </button> 
+
+
+     <div class="modal fade" id="joinModal" tabindex="-1" aria-labelledby="joinModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="btn-close hvr-grow" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div> 
+          
