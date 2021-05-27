@@ -103,7 +103,7 @@ Designs
   * RER (252, 14, 40) or FCOE28
   * White ( 255,255,255) or FFFFFF
   * Blue/Purple  ( 128,134,237) or 8086ED
-  * Gray (219,219,220) or DBDBDC
+  * Gray (219,219,220) or DBDBDC 
  ![alt Red Sea Reef](assets/images/rgb.png)
  From: Coolors Palette:
       [MIT](https://coolors.co/fc0e28-ffffff-8086ed-dbdbdc)

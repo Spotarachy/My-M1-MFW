@@ -7,7 +7,7 @@
 }
 
 body{
-    font-family: "Roboto",Poppins;
+    font-family: "Roboto", poppins;
     color: FFFFF;
 }
 
@@ -24,13 +24,33 @@ h1 {
     font-size: 220%;
     font-size: 30;
     text-align: center;
-    color: "rgb":"2532,14,40";
+    color: rgb(252,14,40);
 }
 h2 {
     font-size: 200%;
     font-size: 20;
     text-align: center;
-    color: #000;
+    color: rgb(108, 177, 134);
+}
+
+.content {
+    line-height: 25px;
+    text-align: center;
+    color: aqua;
+}
+
+/*-- Header --*/
+
+#title {
+font-size: 120%;
+font-family: "Roboto", poppins;
+font-weight: 250;
+color: rgb(252, 14, 40);
+}
+
+.navbar-nav {
+    position: fixed;
+    top: auto;
 }
 
 #hero-image {
