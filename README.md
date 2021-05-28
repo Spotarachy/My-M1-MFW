@@ -230,7 +230,9 @@ Features
   * 
 ---
 ### ```Known Bugs```
-*   <Add Text>
+*   The fist bug that was found out too be a 404.error, it keet the webpage form loading back to it's "Home" page on the website, after looking it over i found that in the gallery.thml file, in the class element it was speeled as: "indax.html"
+   * ![alt Red Sea Reef](assets/images/Bugs/404.png)
+* <Add Text>
  * 
  * 
 
