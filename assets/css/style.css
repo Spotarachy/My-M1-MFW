@@ -83,18 +83,21 @@ color: #8086ed;
 .navbar-collapse {
     text-align: center;
 }
-@media only screen and (min-width:690px){
+@media only screen and 
+(min-width:690px){
     #logoN {
         font-size: 80%;
-        margin-bottom: 40px;
-    }
-}
+        margin-bottom: 40px;}
 
+}
 /*-- Hero images--*/
 
 #hero-image {
-    height: 100px;
-    width: 100%;
-    background: url(..assets/images/Hero1.png) no-repeat bottom;
+    min-width: 50px;
+    max-width: max-content;
+    height: auto;
+    background: url(..assets/images/log/Hero1.png) no-repeat bottom;
     overflow: hidden;
     background-size: cover;
+}
+
