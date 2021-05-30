@@ -83,8 +83,8 @@ color: #8086ed;
 .navbar-collapse {
     text-align: center;
 }
-@media only screen and 
-(min-width:690px){
+@media only screen and (min-width:690px)
+{
     #logoN {
         font-size: 80%;
         margin-bottom: 40px;}
@@ -92,12 +92,19 @@ color: #8086ed;
 }
 /*-- Hero images--*/
 
-#hero-image {
-    min-width: 50px;
-    max-width: max-content;
-    height: auto;
-    background: url(..assets/images/log/Hero1.png) no-repeat bottom;
-    overflow: hidden;
-    background-size: cover;
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
+
+.order-first 
+
+
+.modal-fullscreen-md-down {
+    size: 768px;
+}
