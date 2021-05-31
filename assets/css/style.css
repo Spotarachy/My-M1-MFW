@@ -16,6 +16,7 @@ body{
 }
 
 .row {
+    
     margin-right: 1;
     margin-left: 1;
 }
@@ -64,8 +65,6 @@ color: #8086ed;
     
 }
 
-
-}
 .navbar-nav .navbar-light .active .nav-link {
     color: cyan
 }
@@ -108,3 +107,13 @@ color: #8086ed;
 .modal-fullscreen-md-down {
     size: 768px;
 }
+
+/* [START maps_add_map] */
+/* Set the size of the div element that contains the map */
+#map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
