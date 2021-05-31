@@ -16,7 +16,7 @@ body{
 }
 
 .row {
-    
+
     margin-right: 1;
     margin-left: 1;
 }
@@ -117,3 +117,23 @@ color: #8086ed;
   /* The width is the width of the web page */
 }
 
+.br{
+    color: rgb( 219, 219, 220);
+}
+
+/*Footers*/
+
+footer{
+    height: 100px;
+    width: 100%;
+}
+.social-networks{
+    text-align: center;
+}
+.social-networks li{
+    display: inline;
+    font-size: medium;
+    margin: 1%;
+    padding: 5%;
+    color: rgb(252, 14, 40);
+}
