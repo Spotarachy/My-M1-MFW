@@ -8,10 +8,10 @@
 
 body{
     font-family: 'Roboto', poppins;
-    color: #FFFFFF;
+    color: black;
 }
 h2{
-    font-family: 'Roboto';
+    font-family: 'Poppins';
     text-transform:  uppercase;
     letter-spacing: 4px;
 }
