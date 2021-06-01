@@ -8,7 +8,12 @@
 
 body{
     font-family: 'Roboto', poppins;
-    color: FFFFF;
+    color: #FFFFFF;
+}
+h2{
+    font-family: 'Roboto';
+    text-transform:  uppercase;
+    letter-spacing: 4px;
 }
 
 .container-fluid {
@@ -64,9 +69,19 @@ color: #8086ed;
     font-family: 'Poppins';
     
 }
+#menu a{
+    text-decoration: underline;
+    color: ;
+}
+#menu a:hover{
+    border-bottom: 1px solid #fc0e28;
+}
+.active:hover{
+    border-bottom: 1px solid cyan;
+}
 
 .navbar-nav .navbar-light .active .nav-link {
-    color: cyan
+    color: #fc0e28;
 }
 .navbar-nav .nav-link  .active.nav-link,
 .navbar-nav .nav-link  .nav-link.active,
