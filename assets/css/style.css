@@ -64,6 +64,7 @@ color: #8086ed;
 }
 
 .navbar-nav {
+    position: fixed;
     text-align: center;
     font-size: 100%;
     font-family: 'Poppins';
@@ -86,9 +87,9 @@ color: #8086ed;
 .navbar-nav .nav-link  .active.nav-link,
 .navbar-nav .nav-link  .nav-link.active,
 .navbar-nav .nav-link  .show.nav-link,
-.navbar-nav .nav-link  .nav-link.show {
-    color: darkorange;
-}
+.navbar-nav .nav-link  .nav-link.show 
+    
+
 .navbar-toggler {
     border: none;
     margin: 15;
@@ -151,4 +152,15 @@ footer{
     margin: 1%;
     padding: 5%;
     color: rgb(252, 14, 40);
+}
+@mixin clearfix() {
+  &::after {
+    display: block;
+    clear: both;
+    content: https://www.facebook.com/groups/817257271620591
+  }
+}
+
+.element {
+  @include clearfix;
 }
