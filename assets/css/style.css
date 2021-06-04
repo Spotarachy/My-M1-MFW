@@ -72,16 +72,15 @@ color: #8086ed;
 .navbar-nav {
     position: fixed;
     text-align: center;
-    font-size: 100%;
-    font-family: 'Poppins';
-    
+    font-family: Poppins; 
 }
+
 #menu a {
     text-decoration: underline;
-    color: ;
+    color: cyan;
 }
 #menu a:hover {
-    border-bottom: 1px solid #fc0e28;
+    border-bottom: 1px solid cyan;
 }
 .active:hover {
     border-bottom: 1px solid cyan;
@@ -134,24 +133,36 @@ color: #8086ed;
         margin-bottom: 30px;
     }
 }
+/* Location*/
+.location-cantainer ul {
+    list-style: none;
+}
+.location-cantainer il {
+    font-size: 21px;
+}
+.location-cantainer h2{
+    padding: 30px;
+}
+.location-cantainer .fas, .location-cantainer .fas {
+    padding-right: 5px;
+    padding-left: 5px;
+}
 /*Google map */
 
 .google-map {
     width: 100%;
-    height: 450px;
+    height: 480px;
     padding: 2;
     margin: 0 auto;
-   
-
 }
 
 /*Footers*/
 
 .footer-container-desktop {
     background-color: #dbdbdc;
-    color: #fc0e28;
+    color: #8086ed;
     margin-top: 90px;
-    height: 120px;
+    height: 150px;
 }
 
 .footer-container-desktop ul {
@@ -169,21 +180,72 @@ color: #8086ed;
     float: left;
 }
 
-.social-networks {
+.social-media-links {
+    float: right;
+    color: #fc0e28;
+}
+
+.social-media-links i, .social-media-links-mobile i, .social-media-links li span, .social-media-links-mobile li span {
+    color: #8086ed;
+}
+
+.social-media-links li {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+    padding: 21px;
+}
+
+.footer-ctas-mobile {
+    color: #8086ed;
+    position: absolute;
+    background-color: #dbdbdc;
+    text-align: left;
+    height: 70px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-ctas-mobile {
+    padding: relative;
+    clear: both;
     text-align: center;
-}
-.social-networks ul {
-    text-align: initial;
-}
-.social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: rgb( 219, 219, 220);
+    padding: 21px;
 }
 
+.footer-ctas-mobile a {
+    text-decoration: none;
+    color: navy;
+}
 
+.footer-text-mobile {
+    position: relative;
+    clear: both;
+    padding: 0;
+    margin: 0;
+    background-color: #dbdbdc;
+    color: #8686ed;
+}
 
+.social-media-links-mobile {
+    display: inline-flex;
+    margin: 0;
+    height: 21px;
+    width: 100px;
+    list-style: none;
+    margin-bottom: 35px;
+    text-align: center;
+    padding: 0;
+}
 
+.social-media-links-mobile li {
+    display: inline-flex;
+    font-size: 21px;
+    margin: 0 auto;
+}
 
-
+.footer-ctas a {
+    text-decoration: none;
+    color: #dbdbdc;
+}
