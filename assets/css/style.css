@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
-body{
+body {
     font-family: 'Roboto', poppins;
     color: black;
 }
-h2{
+h2 {
     font-family: 'Poppins';
     text-transform:  uppercase;
     letter-spacing: 4px;
@@ -70,19 +70,19 @@ color: #8086ed;
     font-family: 'Poppins';
     
 }
-#menu a{
+#menu a {
     text-decoration: underline;
     color: ;
 }
-#menu a:hover{
+#menu a:hover {
     border-bottom: 1px solid #fc0e28;
 }
-.active:hover{
+.active:hover {
     border-bottom: 1px solid cyan;
 }
 
 .navbar-nav .navbar-light .active .nav-link {
-    color: #fc0e28;
+    color: pink;
 }
 .navbar-nav .nav-link  .active.nav-link,
 .navbar-nav .nav-link  .nav-link.active,
@@ -122,26 +122,23 @@ color: #8086ed;
     size: 768px;
 }
 
-.br {
-    color: rgb( 219, 219, 220);
-}
 
 /*Footers*/
 
 footer {
-    height: 150px;
+    height: 200px;
 }
 .social-networks {
     text-align: center;
 }
 .social-networks li {
-    text-align: inline;
+    text-align: horezotal;
 }
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: rgb(252, 14, 40);
+    color: rgb( 219, 219, 220);
 }
 
 
