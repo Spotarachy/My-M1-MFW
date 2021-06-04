@@ -118,43 +118,34 @@ color: #8086ed;
 }
 
 
-.order-first 
-
-
 .modal-fullscreen-md-down {
     size: 768px;
+}
 
-
-
-.br{
+.br {
     color: rgb( 219, 219, 220);
 }
 
 /*Footers*/
 
-footer{
-    height: 100px;
-    width: 100%;
+footer {
+    height: 150px;
 }
-.social-networks{
+.social-networks {
     text-align: center;
 }
-.social-networks li{
-    display: inline;
-    font-size: medium;
+.social-networks li {
+    text-align: inline;
+}
+.social-networks i {
+    font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: rgb(252, 14, 40);
 }
-@mixin clearfix() {
-  &::after {
-    display: block;
-    clear: both;
-    content: https://www.facebook.com/groups/817257271620591
-  }
-}
 
-.element {
-  @include clearfix;
-}
+
+
+
+
 
