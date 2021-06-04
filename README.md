@@ -1,7 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Spotarachy/My-M1-MFW)
 
 
-![alt Red Sea Reef](/assets/images/logoN.png)
+![alt Red Sea Reef](/assets/images/logo/logoN.png)
 
 ## ```Brining The Ocean To You,```
 
@@ -47,52 +47,64 @@ In this website you will find three different ways you can set up a Marine  Aqua
 
  ### ```Project Goals ```
  
- * To Provide a easy to understard  webpage to learn about their aquarium.
+ 1. To Provide a easy to understard  webpage to learn about their aquarium.
  
- * To Provide all the tools need to ensure a happy and healthy reef tank.
+ 2. To Provide all the tools need to ensure a happy and healthy reef tank.
  
- * To give a brief explanation and clarity to what the customer needs.
+ 3. To give a brief explanation and clarity to what the customer needs.
  
- * to Provide a hassle free set up an information with video demonstration.
+ 4. to Provide a hassle free set up an information with video demonstration.
  
- * To inspire a generation to take care of our oceans in the life we did it.
+ 5. To inspire a generation to take care of our oceans in the life we did it.
 
- * To provide a clear and easy place for contacting and receiving additional advice about the systems set up.
+ 6. To provide a clear and easy place for contacting and receiving additional advice about the systems set up.
  
  
 ### ```User Stories```
  1.**Visitiing the site for the fist time :**
 
-  * As a First time Visitor,I want the site to have a fast loading time.
-  * As a First time Visitor,I Want to be able to use a website on any device.
-  * As a First time Visitor I want to able to learn and easily understand what the website is about.
-  * As a First time Visitor I  Want to feel the commitment to the end-users.
-  * As a First time Visitor I Want a quick and easy to navigate or the page & not overloaded with information.
-  * As a First time Visitor I want to be able to click and visit social media, and others for more content and to keep up to date with future postings and developments.
-  * Knowing priceing for each type of set up.
-  * Finding out as much as possible about the care requirements.
-  * I want to access contact information, such as address, phone numbers and location.
-  * Being able to navigate quickly through out  part of the website.
+  7. As a First time Visitor,I want the site to have a fast loading time.
+  8. As a First time Visitor,I Want to be able to use a website on any device.
+  9. As a First time Visitor I want to able to learn and easily understand what the website is about.
+  10.  As a First time Visitor I  Want to feel the commitment to the end-users.
+  11.  As a First time Visitor I Want a quick and easy to navigate or the page & not overloaded with information.
+  12. As a First time Visitor I want to be able to click and visit social media, and others for more content and to keep up to date with future postings and developments.
+  13.  Knowing priceing for each type of set up.
+  14.  Finding out as much as possible about the care requirements.
+  15.  I want to access contact information, such as address, phone numbers and location.
+  16.  Being able to navigate quickly through out  part of the website.
 
  2.**Returning Visitor to the site:**
 
-  * A quick loading website using a combintion of from over focus, the website that load on mobile device just as well as just as well as desktop devices.
+  17.  A quick loading website using a combintion of from over focus, the website that load on mobile device just as well as just as well as desktop devices.
 
-  * A quick and responsive platform that all user can injoy  
+  18. A quick and responsive platform that all user can injoy  
 
-  * A Design that is easy & clear call's to action,to able to navigate the website Features.
+  19.  A Design that is easy & clear call's to action,to able to navigate the website Features.
 
-  * As a Returning Visitor the website to be both informational-based and social media-based to keep both parties equally and Informed.  
+  20.  As a Returning Visitor the website to be both informational-based and social media-based to keep both parties equally and Informed.  
 
-  * As a Returning Visitor i want the layout will be easy to navigate with Clare buttons In the top menu bar for ease of use.
+  21.  As a Returning Visitor i want the layout will be easy to navigate with Clare buttons In the top menu bar for ease of use.
 
  3.**Frequent User to the site:**
 
-  * As a Frequent User, I wanrt to See a clear part to anything newly added item.
+  22.  As a Frequent User, I wanrt to See a clear part to anything newly added item.
 
-  * As a Frequent User, want to keet update wiht Stories form others to also visito the site true social media, Facebook, Twitter etc...
+  23.  As a Frequent User, want to keet update wiht Stories form others to also visito the site true social media, Facebook, Twitter etc...
 
-  * As s Frequent User, want to know if their more any event's coming up, where i can sign up, for Newsletter.
+  24.  As s Frequent User, want to know if their more any event's coming up, where i can sign up, for Newsletter.
+
+  4.**Site Owner goals:**
+  
+  25. A webpage where we can show case all the good's and services that we offer.
+
+  26. A site that is directly show are customer where to go, for thire informationalneed.
+
+  27. a webpage that can help us connect stroies & experiences.
+  
+  28. a site that can be update, easliy 
+
+
 
 ```
 Designs  
@@ -267,8 +279,16 @@ Following this helpfull guide to the step's: sourced form the [GitHub.com/Code I
 
 
 ### ``` Credit ```
- * Content
-   * the text 
+ * Pexels for there Free to uesd Photo.
+   * here you will find the 4 artis name form the my porfile: [MIT](https://www.pexels.com/@mario-f-wilson-58865816)
+
+       * Artem Mizyuk
+       * Tom Fisk
+       * Franceseco Ungaro 
+       * Nadia Chiesi
+
+
+ * the text 
 
  * Media
 
