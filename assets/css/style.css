@@ -40,6 +40,37 @@ p {
     font-size: 18px;
     font-weight: 300;
 }
+
+li {
+    font-family: 'Roboto', poppins;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+ul {
+    margin: 0 auto;
+}
+
+.fa-check {
+    color: navy;
+    font-size: 21px;
+    font-weight: 400;    
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a.black:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.navber img {
+    margin: 8px 8px;
+}
+
 .content {
     line-height: 25px;
     text-align: center;
@@ -49,7 +80,7 @@ p {
 .container-fluid {
     padding: 1;
 }
-
+ 
 .row {
 
     margin-right: 1;
@@ -63,6 +94,7 @@ p {
     border-radius: 40px;
     background-color: navy;
     margin-top: 31px;
+
     color: #ffffff;
     font-size: 21px;
     font-weight: 500;
@@ -75,6 +107,32 @@ font-size: 120%;
 font-family: 'Roboto', poppins;
 font-weight: 250;
 color: #8086ed;
+}
+
+.card .btn {
+    border: none;
+    width: 16em;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-color: #dbdbdc;
+    color: #fc0e28;
+    font-size: 16px;
+    font-weight: 600px;
+    letter-spacing: 1px;
+}
+
+#card
+
+
+.nav-join {
+    border: none;
+    width: 8em;
+    padding: 5px;
+    border-radius: 50px;
+    margin-right: 15px;
+    background-color: #8086ed;
+    text-decoration: none;
+    color: #000;
 }
 
 .navbar {
