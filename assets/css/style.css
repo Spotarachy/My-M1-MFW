@@ -371,4 +371,32 @@ color: #8086ed;
     text-decoration: none;
     color: #dbdbdc;
 }
-@me
+@media screen and (min-width: 576px) {
+    .modal-dialog{
+        max-width: 1000px;
+    }
+}
+
+.modal-header {
+    border: none;
+}
+
+.modal-body {
+    margin-left: 10px;
+}
+
+.form-input {
+    background-color: #8686ed;
+    border: none;
+    border-radius: 15px;
+    width: 80%;
+    height: 50px;
+}
+
+.form-input:focus{
+    background-color: #dbdbdc;
+}
+
+#query {
+    height: 170px;
+}
