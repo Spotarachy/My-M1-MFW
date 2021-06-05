@@ -65,25 +65,38 @@
 <br>
 
 <!--Form grig -->
-<div class="row">
-  <div class="col">
-    <input type="text" class="form-control" placeholder="First name" aria-label="First name">
-  </div>
-  <div class="col">
-    <input type="text" class="form-control" placeholder="Last name" aria-label="Last name">
-  </div>
-</div>
-<div class="form-floating mb-3">
-  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-  <label for="floatingInput">Email address</label>
-</div>
-<div class="form-floating">
-  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-  <label for="floatingPassword">Password</label>
-</div>
+
 <br>
 
 <section>
+    <div class="container">
+        <h2>How can we help!</h2>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <form method="POST" action="https://formdump.codeinstitute.net/">
+            <div class="mb-3">
+                <label for="fullname" class="form-label">Name</label>
+                <input type="text" id="fullname" class="form-input" required>
+            </div>
+            <div class="mb-3">
+                <label for="youremail" class="form-label">Email</label>
+                <input type="email" id="youremail" class="form-input" required>
+            </div>
+            <div class="mb-3">
+               <label for="query" class="form-label">Your query</label>
+                <textarea id="query" id="form-input" required></textarea>
+            </div>
+            <div class="mb-3">
+                <input id="submit-button" class="submit-button hvr-grow" type="submit" aria-label="Submit">
+                <input id="reset-button" class="reset-button hvr-grow" type="reset" aria-label="Reset">
+            </div>
+            </form>
+        </div>
+        <div class="d-none d-lg-block col-lg-6">
+            <img id="contact-image-inner" src="assets/images/Friend reef tank.pdf" alt="Nano reef tank">
+        </div>
+    </div>
 
 </section>
 
@@ -132,7 +145,7 @@
     </div>
 </section>
 
-<a class="contact-text mx-1" href="https://www.google.co.uk/maps..... enter your link here" target="_blank" rel="noopener">Address</a> </li>
+<a class="contact-text mx-1" href="https://www.google.co.uk/maps..... enter your link here" target="_blank" rel="noopener"></a> </li>
 
 <section>
 <div class="container address-container">
