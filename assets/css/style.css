@@ -386,7 +386,7 @@ color: #8086ed;
 }
 
 .form-input {
-    background-color: #8686ed;
+    background-color: #dbdbdc;
     border: none;
     border-radius: 15px;
     width: 80%;
@@ -394,9 +394,26 @@ color: #8086ed;
 }
 
 .form-input:focus{
-    background-color: #dbdbdc;
+    background-color: #8086ed;
 }
 
 #query {
     height: 170px;
+}
+.form {
+    display: block;
+}
+@media screen and (min-width: 911px) {
+    .card{
+        margin-bottom: 100px;
+    }
+}
+.card ul il, .card p {
+    font-size: 16px;
+}
+.card .btn {
+    border: none;
+    width: 16px;
+    border-radius: 15px;
+    padding-top: 10px;
 }

@@ -7,7 +7,7 @@
 
 https://spotarachy.github.io/My-M1-MFW/
 
-( link to webpage Here)
+![Mockup](assets/images/logo/respon.png)
 
 ---
 ```
@@ -20,7 +20,7 @@ At Red Sea Reef our vision has been to create a world in which marine and reef a
 
 In keeping wiht the company's objectve to make successful reef-keeping accessible to a wider audience, form novices to experienced hobbyists, Red Sea Reef Developmnet its ground-breaking range of reef aquarium systems.
 
-![Mockup](/assets/logoN.png)
+![Mockup](assets/images/logo/logoN.png)
 
 ## Table of contents
 [UX - User Experience](#ux)
@@ -140,7 +140,7 @@ Designs
  * Images & Video will also be Source from [redseafish](https://www.redseafish.com), where permission to use these images & videos in this projcet was requested.
  ![alt Red Sea Reef](assets/images/5.png)
 
-<--- * index : -->
+
 ---
 
 ### ```Icons```
