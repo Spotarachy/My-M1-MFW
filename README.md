@@ -52,7 +52,7 @@ In keeping wiht the company's objectve to make successful reef-keeping accessibl
 
   [Developmnet](#Developmnet)
 
-   * [Github page](#Github)
+   * [Github-page](#Github)
    * [Credit](#Credit)
    * [Acknowledgements](#Acknowledgement)
 
