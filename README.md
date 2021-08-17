@@ -23,6 +23,7 @@ In keeping wiht the company's objectve to make successful reef-keeping accessibl
 ![Mockup](assets/images/logo/logoN.png)
 
 ## Table of contents
+
 [UX - User Experience](#ux)
    * [Project Goals](#project-goals)
    * [User Stories](#user-stories)
@@ -32,12 +33,30 @@ In keeping wiht the company's objectve to make successful reef-keeping accessibl
 
 [Design](#design-choices)
 
- * [Colours](#colours)
- * [Typography](#typography)
- * [Images](#images)
- * [Icons](#icons)
- * [Layout](#layout)
- * [Wireframes](#wireframes)
+   * [Colours](#colours)
+   * [Typography](#typography)
+   * [Images](#images)
+   * [Icons](#icons)
+   * [Layout](#layout)
+   * [Wireframes](#wireframes)
+
+ [Features](#Features)
+
+  * [Validator](#validator)
+  * [Testing](#Testing)
+  * [Further-testing](#further testing)
+     1. index.html
+     2. desktop
+     3. perfromace 
+  * [Known-Bugs](#known Bugs)
+
+  [Developmnet](#Developmnet)
+
+   * [Github page](#Github)
+   * [Credit](#Credit)
+   * [Acknowledgements](#Acknowledgement)
+
+
 
 ---
 ```
@@ -218,35 +237,34 @@ Features
 
 ### ``` Testing ```
 
-* 404 
-  * This page is only accessed if a user types an incorrect web address in the browser navigation bar.
+   * 404 
+   * This page is only accessed if a user types an incorrect web address in the browser navigation bar.
 
-  * This page contains the following section: A "humourous message" notifying the user of an error. This will then allows the user to defect that the web address thire trying to locate doens't exist.
+   * This page contains the following section: A "humourous message" notifying the user of an error. This will then allows the user to defect that the web address thire trying to locate doens't exist.
      * There is one call-out button in this section, allowing user to return to the home page! 
 
-#### Futher Testing 
- * Moblie Testing
-     1. index.thml
+#### Further testing 
+  * Moblie Testing
+     1. index.html
      2. desktop
      3. performance
 
-<add Text>
-
-
-* Features to implement 
-  * Adding Teram and condition 
-  * Adding Privacy Step update 
-  * Detailed contact information, Auto log in 
-  * Adding a two step anthenticator, for payments 
-  * Detailed reef safe fish & coral
-  * 
+  * Features to implement 
+   * Adding Teram and condition 
+   * Adding Privacy Step update 
+   * Detailed contact information, Auto log in 
+   * Adding a two step anthenticator, for payments 
+   * Detailed reef safe fish & coral
+  
 ---
 ### ```Known Bugs```
-*   The fist bug that was found out too be a 404.error, it keet the webpage form loading back to it's "Home" page on the website, after looking it over i found that in the gallery.thml file, in the class element it was speeled as: "indax.html"
+
+   *   The fist bug that was found out too be a 404.error, it keet the webpage form loading back to it's "Home" page on the website, after looking it over i found that in the gallery,html file, in the class element it was speeled as: "indax.html"
+
    * ![alt Red Sea Reef](assets/images/Bugs/404.png)
-* <Add Text>
- * 
- * 
+
+ 
+ 
 
 ---
 
@@ -286,13 +304,9 @@ Following this helpfull guide to the step's: sourced form the [GitHub.com/Code I
        * Tom Fisk
        * Franceseco Ungaro 
        * Nadia Chiesi
-
-
- * the text 
-
- * Media
-
-  * link images 1
+       * the text 
+       * Media
+       * link images 1
 
      https://www.coralandfishstore.nl/zeeaquarium/kaal-aquarium/waterbox-marine-x-90-3-white.html?gclid=CjwKCAjwnPOEBhA0EiwA609ReU_kFClSMQ05VgjI8wS8XmHaLyyRDefsLMBQUbfY2u9DSfOuR-AAjxoCz5UQAvD_BwE
 
