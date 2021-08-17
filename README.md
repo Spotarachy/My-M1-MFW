@@ -20,8 +20,6 @@ At Red Sea Reef our vision has been to create a world in which marine and reef a
 
 In keeping wiht the company's objectve to make successful reef-keeping accessible to a wider audience, form novices to experienced hobbyists, Red Sea Reef Developmnet its ground-breaking range of reef aquarium systems.
 
-![Mockup](assets/images/logo/logoN.png)
-
 ## Table of contents
 
 [UX - User Experience](#ux)
@@ -52,7 +50,7 @@ In keeping wiht the company's objectve to make successful reef-keeping accessibl
 
   [Developmnet](#Developmnet)
 
-   * [Github Page](#Github Page)
+   * [GithubPage](#Github Page)
    * [Credit](#Credit)
    * [Acknowledgements](#Acknowledgement)
 
