@@ -83,9 +83,10 @@ a.black:hover {
 }
  
 .row {
-
-    margin-right: 1;
-    margin-left: 1;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
 /* Error Message*/
 #erroor-button {
@@ -121,9 +122,6 @@ color: #8086ed;
     font-weight: 600px;
     letter-spacing: 1px;
 }
-
-#card
-
 
 .nav-join {
     border: none;
