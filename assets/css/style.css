@@ -150,17 +150,18 @@ color: #8086ed;
 .navbar-toggler {
     border: none;
 }
+.navbar-nav{
+    position: inherit;
+    font-family: Poppins;
+    text-align: right;
+    background-color: #212529;
+}
 
 .navbar-toggler-icon {
     width: 2em;
     height: 2em;
 }
 
-.navbar-nav {
-    position: fixed;
-    text-align: center;
-    font-family: Poppins; 
-}
 
 #menu a {
     text-decoration: underline;
@@ -444,6 +445,11 @@ iframe {
     }
 }
 @media only screen and (min-width:992px) {
+    .navbar-nav {
+        position: fixed;
+        text-align: center;
+    }
+
     .home-article {
         width: 50%;
     }
