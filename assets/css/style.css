@@ -288,15 +288,32 @@ iframe {
 }
 /*Google map */
 
-.google-map {
+#map {
     width: 100%;
     height: 480px;
     padding: 2;
     margin: 0 auto;
-
 }
 
-/*Footers*/
+
+
+/*Opening time*/
+
+.container-opening-time ul{
+    list-style: none;
+    text-align: left;
+    margin-top: 30px;
+}
+.container-opening-time il {
+    display: inline-block;
+    justify-content: center;
+    vertical-align: middle;
+    letter-spacing: 1px;
+    font-size: 21;
+}
+
+
+    /*Footers*/
 
 .footer-container-desktop {
     background-color: #dbdbdc;
