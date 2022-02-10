@@ -258,7 +258,7 @@ color: #8086ed;
     vertical-align: top;
 }
 
-iframe {
+#iframe {
     width: 30rem;
     height: 30rem;
     position:relative;
@@ -272,6 +272,12 @@ iframe {
 /**/
 
 /* Location*/
+.container-location-container {
+    text-align: center;
+    justify-content: center;
+    display: right;
+}
+
 .location-cantainer ul {
     list-style: none;
 }
